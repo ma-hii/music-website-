@@ -1,6 +1,7 @@
 # music-website-
 Spotify like music wepage made using HTML,CSS,Bootsrap.
-screenshots 
+
+* screenshots 
 
 ![image](https://user-images.githubusercontent.com/88180820/210957197-f260a9ca-7c15-4354-91bb-302e12717712.png)
 ![image](https://user-images.githubusercontent.com/88180820/210957415-e19f0882-e368-4de3-bbe8-f991142ba954.png)
