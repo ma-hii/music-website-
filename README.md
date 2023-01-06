@@ -1,5 +1,5 @@
 # music-website-
-Spotify like music wepage made using HTML,CSS,Bootsrap.
+Spotify like music wepage made using HTML,CSS,Bootstrap.
 
 * screenshots 
 
